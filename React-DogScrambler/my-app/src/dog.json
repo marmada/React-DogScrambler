@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Afghan Hound",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12221749/afhagn-3.jpg",
+    "temperament": "Independent, Sweet, Silly"
+  },
+  {
+    "id": 2,
+    "name": "Alaskan Malamute",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001815/Alaskan-Malamute-On-White-03.jpg",
+    "temperament": "Affectionate, Loyal, Playful"
+  },
+  {
+    "id": 3,
+    "name": "Bearded Collie",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000856/Bearded-Collie-On-White-01.jpg",
+    "temperament": "Smart, Bouncy, Charismatic"
+   
+  },
+  {
+    "id": 4,
+    "name": "Beagle",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000937/Beagle-On-White-07.jpg",
+    "temperament": "Friendly, Curious, Merry"
+   
+  },
+  {
+    "id": 5,
+    "name": "Bull Terrier",
+    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "temperament": "Playful, Charming, Mischievous"
+   
+  },
+  {
+    "id": 6,
+    "name": "Golden Retriever",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/18160814/Golden-Retriever-Standing.jpg",
+    "temperament": "Friendly, Intelligent, Devoted"
+  
+  },
+  {
+    "id": 7,
+    "name": "Yorkshire Terrier",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12222633/Yorkshire-Terrier-On-White-06.jpg",
+    "temperament": "Affectionate, Sprightly, Tomboyish"
+  
+  },
+  {
+    "id": 8,
+    "name": "Samoyed",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212924/Samoyed-slide-5.jpg",
+    "temperament": "Adaptable, Friendly, Gentle"
+  
+  },
+  {
+    "id": 9,
+    "name": "Pembroke Welsh Corgi",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225900/Pembroke-Welsh-Corgi-On-White-07.jpg",
+    "temperament": "Affectionate, Smart, Alert"
+
+  },
+  {
+    "id": 10,
+    "name": "Neapolitan Mastiff",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230615/Neapolitan-Mastiff-On-White-01.jpg",
+    "temperament": "Loyal, Dignified, Watchful"
+  
+  },
+  {
+    "id": 11,
+    "name": "Miniature Schnauzer",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230651/Miniature-Schnauzer-On-White-08.jpg",
+    "temperament": "Friendly, Smart, Obedient"
+
+  },
+  {
+    "id": 12,
+    "name": "Havanese",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232252/Havanese-On-White-01.jpg",
+    "temperament": "Intelligent, Outgoing, Funny"
+   
+  },
+  {
+    "id": 13,
+    "name": "Havanese",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232252/Havanese-On-White-01.jpg",
+    "temperament": "Intelligent, Outgoing, Funny"
+   
+  },
+  {
+    "id": 14,
+    "name": "French Spaniel",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12192546/French-Spaniel-on-White-02.jpg",
+    "temperament": "Gentle, Sociable, Intelligent"
+   
+  },
+  {
+    "id": 15,
+    "name": "Dogo Argentino",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233825/Dogo-Argentino-On-White-01.jpg",
+    "temperament": "Friendly, Cheerful, Humble"
+   
+  },
+  {
+    "id": 13,
+    "name": "Pug",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225358/Pug-On-White-01.jpg",
+    "temperament": "Charming, Mischievous, Loving"
+   
+  }
+]
