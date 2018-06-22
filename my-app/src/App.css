@@ -3,3 +3,8 @@
   text-align: center;
   margin-bottom: 50px;
 }
+
+.score-board{
+  display: block;
+  clear: both;
+}
